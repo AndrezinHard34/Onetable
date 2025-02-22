@@ -1,0 +1,77 @@
+table{
+    width: 100%;
+    height: 98vh;
+    text-align: center;
+    url(style.css)
+}
+td{
+    width: 5.5%;
+    height: 10%;
+    padding: 5px;
+}
+
+.atomico{
+    text-align: left;
+}
+
+.Ametal{
+    background-color: rgb(179, 215, 106);
+}
+.simbolo{
+    font-size: 180%;
+}
+.nome{
+    font-size: 15px;
+}
+
+.massa{
+    font-size: 12px;
+}
+
+.Metal{
+background-color: #F1B200;
+}
+
+.mAlcalin{
+    background-color: #EADA00;
+}
+.gsnobres{
+    background-color: #3D9DE2;
+}
+.Halo{
+    background-color: #70CBEB;
+}
+.Oxig{
+    background-color: #A1D344;
+}
+.boro{
+    background-color: #4DB6AC;
+}
+.metais{
+    background-color: #EB8E8E;
+}
+.outros{
+    background-color: #A2C7D3;
+}
+.semi{
+    background-color: #4DB6AC;
+}
+.lata{
+    background-color: #7BDEE5;
+}
+.acti{
+    background-color: #D49BCD;
+}
+body{
+    background-color: antiquewhite;
+}
+.tabelas{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.perio{
+    text-align: center;
+    background-color: #E6E6E6;
+    margin: 0 auto;
+    border: solid;
+    width: 50%;
+}
